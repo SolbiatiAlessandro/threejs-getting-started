@@ -1,5 +1,7 @@
 # Three.js getting started
 
+My own take on the three.js getting started tutorial (https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene), both for Browser and for **VR Headsets.**
+
 ![alt text](https://raw.githubusercontent.com/SolbiatiAlessandro/threejs-getting-started/master/demo.png)
 
 ## Setup

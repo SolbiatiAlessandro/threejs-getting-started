@@ -1,3 +1,9 @@
+# Three.js getting started
+
+![alt text](https://raw.githubusercontent.com/SolbiatiAlessandro/threejs-getting-started/master/demo.png)
+
+## Setup
+
 To run the example from the browser you can run a local python3 server
 
 ```
